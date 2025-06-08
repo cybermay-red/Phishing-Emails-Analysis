@@ -1,0 +1,122 @@
+Phishing Email Analysis Report
+Subject: GRANT
+This email claims the recipient is eligible for a £100,000.00 grant and instructs them to contact a representative using a non-official email address and phone number. The message impersonates the United Nations (UN) and uses formal-sounding names to appear credible. It follows a classic advance-fee scam/phishing pattern designed to collect personal details and potentially extort money or data.
+
+E-mail Analysis
+Header Analysis
+From: familiesgrant@gmail.com
+ A generic Gmail address — not affiliated with any known organization, and clearly not from an official domain. The sender name “U N” is also vague and unprofessional.
+
+
+Return-Path: sangdeptrai84@gmail.com
+ The return path does not match the From address, indicating possible spoofing or sender redirection — a common tactic in phishing campaigns.
+
+
+Originating IP: 209.85.220.41
+ While the IP is part of Google’s email infrastructure (mail-sor-f41.google.com), this does not guarantee safety. Gmail is often abused for phishing due to its reputation.
+
+
+Reverse DNS (rDNS): mail-sor-f41.google.com
+ This is a valid reverse DNS for a Gmail server. However, phishers often use legitimate services to bypass filters, so this is not a sign of legitimacy on its own.
+
+
+Content Analysis
+Subject: GRANT
+Message Body:
+Greetings Dear,
+Send your Ref: FSG2025 / Name / Phone Number / Country to Mr. Andrej Mahecic on un.grant@socialworker.net, +1 888 673 0430 for your £100,000.00.
+Sincerely
+Mr. C. Gunness
+ On behalf of the UN.
+Analysis of Body Content:
+Grammar and Phrasing Issues:
+
+
+“Greetings Dear” is a non-standard and awkward salutation.
+
+
+Vague instructions with no explanation of source or reason for the grant.
+
+
+Poor punctuation, odd formatting, and general lack of professionalism.
+
+
+Impersonation:
+
+
+References to UN staff (Mr. C. Gunness, Mr. Andrej Mahecic), both of whom are real former spokespersons for the UN. This is a social engineering tactic to appear credible.
+
+
+Email used for contact: un.grant@socialworker.net — not a UN domain (UN official domains end in .int, e.g., @un.org or @unodc.org). The domain socialworker.net is completely unrelated.
+
+
+Urgency and Emotional Bait:
+
+
+A large amount of money (£100,000.00) is promised for doing almost nothing — a classic lure for advance-fee fraud.
+
+
+Social engineering attempt to hook victims with hope and greed.
+
+
+Request for Personal Info:
+
+
+Ref number, name, phone number, country — typical information gathered to begin a longer scam chain.
+
+
+
+Attachment / Link Analysis
+Attachment: None
+
+
+Links: None
+
+
+Behavioral Concern: Instead of a link, the scam prompts users to email or call a fraudulent contact — often used to bypass link-based security filters.
+
+
+Behavior and Visual Tactics
+Identity Theft: Impersonates high-level UN representatives.
+
+
+Phishing via Contact: Encourages victim-initiated contact, which leads to more targeted exploitation (e.g., requests for identity documents or “processing fees”).
+
+
+Deceptive Simplicity: Clean and short message avoids detection, but builds the foundation for a highly manipulative fraud scheme.
+
+
+Conclusion
+This email is a high-risk phishing and fraud attempt, based on:
+Spoofed identity of UN officials
+
+
+Unverified and unrelated domains
+
+
+Emotional and financial bait
+
+
+Redirection to fraudulent communication channels
+
+
+Use of real names to build trust
+
+
+Final Verdict: MALICIOUS EMAIL
+Key Red Flags:
+ Free Gmail sender (no official domain)
+
+
+Vague and awkward language
+
+
+Real UN names used to build false credibility
+
+ Unofficial and unrelated contact domain (socialworker.net)
+
+
+Request for personal info and direct contact
+
+
+ Impersonation of a well-known global institution
